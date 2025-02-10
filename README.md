@@ -1,6 +1,7 @@
-# Hi, there! 👋  
-## I am, **Buu Thach** 
----
+<div align="center">
+  <h1>Hi, there! 👋</h1>
+  <h3>I am Buu Thach</h3>
+</div>
 
 📱 **Contact Information:**  
 - Phone : 0949984476
