@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, there! 👋</h1>
-  <h3>I am Buu Thach</h3>
+  <image src="background.svg" width="200"></image>
 </div>
 
 📱 **Contact Information:**  
