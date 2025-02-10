@@ -1,6 +1,6 @@
 <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">  
     <!-- Thêm hình ảnh làm nền -->  
-    <image href="cyber-security-design-vector.jpg" x="0" y="0" width="400" height="200" preserveAspectRatio="xMidYMid slice" />  
+    <image href="https://github.com/thach030103/thach030103/blob/main/svg/cyber-security-design-vector.jpg" x="0" y="0" width="400" height="200" preserveAspectRatio="xMidYMid slice" />  
     <!-- Thêm văn bản "Hi, there!" -->  
     <text x="50%" y="40%" font-size="30" text-anchor="middle" fill="white" font-family="Arial">Hi, there! 👋</text>  
     <!-- Thêm văn bản "I am Buu Thach" -->  
