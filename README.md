@@ -1,5 +1,5 @@
 <div align="center">
-  <image src="svg/background.svg" width="200"></image>
+  <image src="svg/background.svg"></image>
 </div>
 
 📱 **Contact Information:**  
