@@ -1,4 +1,10 @@
-## Hi 👋, I'm Buu Thach
+# Hi, there! 👋  
+## I am, **Buu Thach** 
+---
+
+📱 **Contact Information:**  
+- Phone : 0949984476
+- Email: nbt0301@gmail.com
 
 <!--
 **thach030103/thach030103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
